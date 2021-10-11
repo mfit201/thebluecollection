@@ -1,0 +1,166 @@
+body {
+    display: block;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.bc-row-container {
+}
+
+.bc-row-1 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  margin:0;
+}
+
+.bc-row-2 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  margin:0;
+  filter: hue-rotate(10deg)
+}
+
+  .bc-row-3 {
+    width: 100%;
+    display: flex;
+    position: relative;
+    margin:0;
+    filter: hue-rotate(350deg)
+  }
+
+  .bc-row-4 {
+    width: 100%;
+    display: flex;
+    position: relative;
+    margin:0;
+    filter: hue-rotate(320deg)
+  }
+
+  .bc-row-5 {
+    width: 100%;
+    display: flex;
+    position: relative;
+    filter: hue-rotate(300deg)
+  }
+
+#lightslategrey {
+filter: sepia(1);
+}
+
+#lightslategrey:hover {
+  filter: hue-rotate(100deg)
+}
+
+#opal {
+filter: sepia(1) brightness(.9);
+}
+
+#opal:hover {
+
+}
+#pewterblue {
+  filter: sepia(1);
+}
+
+#pewterblue:hover {
+}
+
+#jetstream {
+filter: sepia(1);
+}
+
+#jetstream:hover {
+}
+
+#chineseblack {
+filter: sepia(1);
+}
+
+#cadet {
+filter: sepia(1);
+}
+
+#dolphingrey {
+  filter: sepia(1);
+}
+
+#morningblue {
+  filter: sepia(1);
+}
+
+#policeblue{
+filter: sepia(1);
+}
+
+#pastelblue{
+filter: sepia(1);
+}
+
+#columbiablue{
+filter: sepia(1);
+}
+
+#darkslategrey{
+filter: sepia(1);
+}
+
+#weldonblue{
+filter: sepia(1);
+}
+
+#msugreen{
+filter: sepia(1);
+}
+
+#uclablue{
+filter: sepia(1);
+}
+
+#wildblueyonder{
+filter: sepia(1);
+}
+
+#jellybeanblue{
+filter: sepia(1);
+}
+
+#blackolive{
+filter: sepia(1);
+}
+
+#desaturatedcyan{
+filter: sepia(1);
+}
+
+#policeblue{
+filter: sepia(1);
+}
+
+#philippinegrey{
+filter: sepia(1);
+}
+
+#yankeesblue{
+filter: sepia(1);
+}
+
+#deepspacesparkle{
+filter: sepia(1);
+}
+
+#nickle{
+filter: sepia(1);
+}
+
+#myrtlegreen{
+filter: sepia(1);
+}
+
+#cadetblue{
+filter: sepia(1);
+}
