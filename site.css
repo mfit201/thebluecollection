@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  position: absolute;
+  background: black;
+}
+
+img {
+  width: 100%;
+}
+
+.bc-col {
+    width: 4%;
+    float: left;
+}
+.bc-col:hover {
+  filter: invert(100%);
+}
+
+
+
+/* ipad/tablet view */
+/* @media screen and (max-width: 1000px){
+
+body {
+  width:100%;
+  background-color: black;
+}
+.bc-col {
+  width: 40%;
+  border-style: inset;
+  border-color: black;
+  border-width: 11px;
+  margin: -150px;
+}
+.bc-col:hover {
+  filter: invert(100%);
+}
+} */
+
+/* ipad/tablet view */
+/* @media screen and (max-width: 700px){
+
+body {
+  width:100%;
+}
+.bc-col {
+  width: 13%;
+  margin: 10px;
+}
+.bc-col:hover {
+  filter: invert(100%);
+  width:5%;
+}
+} */
+/* mobile view  */
+/* @media screen and (max-width: 580px) {
+
+body {
+  width:100%;
+}
+.bc-col {
+  width: 107%;
+  margin: 15px;
+}
+.bc-col:hover {
+  filter: invert(100%);
+
+
+}
+} */
